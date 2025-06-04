@@ -124,7 +124,7 @@
   <tr>
     <td style="text-align: center;">
       <img src="image/시연_1.gif" width="380"><br/>
-      <div style="font-size: 13px;">바닥 바벨 회수</div>
+      <div style="font-size: 13px;">거치대 바벨 정리</div>
     </td>
     <td style="text-align: center;">
       <img src="image/시연_2.gif" width="380"><br/>
@@ -132,6 +132,8 @@
     </td>
   </tr>
 </table>
+
+font-size: 13px
 
 - 로봇팔의 관절(Joint)을 제어하여 물체를 정확히 집어 올림
 - 지정된 위치로 이송 및 배치
