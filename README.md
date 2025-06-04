@@ -90,16 +90,18 @@
 
 ### 👁️ 객체 인식
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <div style="text-align: center;">
-    <img src="image/객체인식1.gif" width="500" />
-    <div><sub>객체인식-(1)</sub></div>
-  </div>
-  <div style="text-align: center;">
-    <img src="image/객체인식2.gif" width="500" />
-    <div><sub>객체인식-(2)</sub></div>
-  </div>
-</div>
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <img src="image/객체인식1.gif" width="300"><br/>
+      <sub>객체인식-(1)</sub>
+    </td>
+    <td style="text-align: center;">
+      <img src="image/객체인식2.gif" width="300"><br/>
+      <sub>객체인식-(2)</sub>
+    </td>
+  </tr>
+</table>
 
 - YOLOv8모델을 이용해서 운동기구를 덤벨, 원판클래스로 분류 후 탐지
 - 식별한 운동기구의 크기와 위치정보를 로봇에 송신
@@ -118,18 +120,18 @@
 ---
 
 ### 🦾 로봇팔 제어
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <div style="text-align: center;">
-    <img src="image/시연_1.gif" width="500" />
-    <div><sub>거치대 바벨 정리</sub></div>
-  </div>
-  <div style="text-align: center;">
-    <img src="image/시연_2.gif" width="500" />
-    <div><sub>바닥 바벨 회수</sub></div>
-  </div>
-</div>
-
-
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <img src="image/시연_1.gif" width="300"><br/>
+      <sub>거치대 바벨 정리</sub>
+    </td>
+    <td style="text-align: center;">
+      <img src="image/시연_2.gif" width="300"><br/>
+      <sub>바닥 바벨 회수</sub>
+    </td>
+  </tr>
+</table>
 
 - 로봇팔의 관절(Joint)을 제어하여 물체를 정확히 집어 올림
 - 지정된 위치로 이송 및 배치
