@@ -93,12 +93,12 @@
 <table>
   <tr>
     <td style="text-align: center;">
-      <img src="image/객체인식1.gif" width="400"><br/>
-      <sub>객체인식-(1)</sub>
+      <img src="image/객체인식1.gif" width="380"><br/>
+      <div style="font-size: 13px;">객체인식-(1)</div>
     </td>
     <td style="text-align: center;">
-      <img src="image/객체인식2.gif" width="400"><br/>
-      <sub>객체인식-(2)</sub>
+      <img src="image/객체인식2.gif" width="380"><br/>
+      <div style="font-size: 13px;">객체인식-(2)</div>
     </td>
   </tr>
 </table>
@@ -123,12 +123,12 @@
 <table>
   <tr>
     <td style="text-align: center;">
-      <img src="image/시연_1.gif" width="400"><br/>
-      <sub>거치대 바벨 정리</sub>
+      <img src="image/시연_1.gif" width="380"><br/>
+      <div style="font-size: 13px;">바닥 바벨 회수</div>
     </td>
     <td style="text-align: center;">
-      <img src="image/시연_2.gif" width="400"><br/>
-      <sub>바닥 바벨 회수</sub>
+      <img src="image/시연_2.gif" width="380"><br/>
+      <div style="font-size: 13px;">바닥 바벨 회수</div>
     </td>
   </tr>
 </table>
